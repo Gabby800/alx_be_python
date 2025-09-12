@@ -1,7 +1,7 @@
 # future_age_calculator.py
 
 # Prompt the user for their current age
-current_age = int(input ("How old are you?) "))
+current_age = int(input ("How old are you?"))
 
 # Calculate future age in 2050
 years_to_add = 2050 - 2023   # 27 years
