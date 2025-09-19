@@ -24,4 +24,3 @@ else:
 
 # ✅ Print the customized reminder (final output to user)
 print("Reminder:", reminder)
-
